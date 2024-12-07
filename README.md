@@ -1,4 +1,4 @@
-[FlapPyBird NEW](https://sourabhv.github.io/FlapPyBird)
+[FlapPyBird NEW 2](https://sourabhv.github.io/FlapPyBird)
 ===============
 
 A Flappy Bird Clone made using [python-pygame][pygame]
